@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Mini Music Player como o próprio nome ja diz, trata-se de um Mini reprodutor de músicas.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://juandasilvaa.github.io/Mini-Music-Player/)
 
 - [Assistir ao tutorial](https://www.youtube.com/watch?v=SAzB_M2wpR0)
 
